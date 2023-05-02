@@ -15,6 +15,15 @@ app.get("/",(req,res) => {
 app.get("/chefs",(req,res) => {
     res.send(chefs)
 })
+
+app.get("/chefrecipe/:chefId",(req,res) => {
+const chefID = req.params.chefId;
+const chefDetails = chefs.find(chef => chef.chefId == chefID)
+res.send(chefDetails)
+})
+
+
+
 app.get("/categories",(req,res)=> {
     res.send(categories)
 })
