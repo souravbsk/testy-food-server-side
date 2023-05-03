@@ -1,112 +1,144 @@
 [
   {
-    "chefImage": "https://i.ibb.co/TKDx8dq/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chefImage": "https://i.ibb.co/GWHyTsk/louis-hansel-v3-Ol-BE6-fh-U-unsplash-1.jpg",
     "chefName": "John Smith",
-    "yearsOfExperience": 10,
-    "likeNumber": 1000,
+    "yearsOfExperience":5,
+    "likeNumber": 100,
     "recipesNumber": 3,
     "id": 1,
     "chefId": "chef123",
     "shortBio": "John Smith is a renowned chef with a passion for creating new and exciting dishes. He has won numerous awards for his culinary creations and has been featured in several national cooking magazines.",
     "recipes": [
       {
-        "recipeName": "Chingri Macher Malaikari",
-        "recipeId": 1,
-        "ratings": 4.5,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Prawns", "Coconut Milk", "Mustard Oil", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Kosha Mangsho",
-        "recipeId": 2,
-        "ratings": 4.2,
-        "cookingMethod": "Pressure Cooker",
-        "ingredients": ["Mutton", "Onion", "Tomato", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Shorshe Ilish",
-        "recipeId": 3,
-        "ratings": 4.8,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Hilsa Fish", "Mustard Paste", "Green Chili", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Luchi",
-        "recipeId": 4,
-        "ratings": 4.3,
-        "cookingMethod": "Frying",
-        "ingredients": ["Flour", "Oil", "Salt"],
+        "recipeName": "Chingri Macher Malai Curry",
+        "recipeId": 6,
+        "ratings": 4.7,
+        "cookingMethod": "Simmered in coconut milk and spices",
+        "ingredients": ["Prawns", "coconut milk", "ginger", "garlic", "turmeric", "green chilies"],
         "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
       },
       {
         "recipeName": "Mishti Doi",
-        "recipeId": 5,
+        "recipeId": 7,
+        "ratings": 4.1,
+        "cookingMethod": "Baked or Steamed",
+        "ingredients": ["Milk", "sugar", "yogurt culture", "cardamom"],
+        "image": "https://i.ibb.co/1ZphZnd/mishti-doi-109140-2-1.jpg"
+      },
+      {
+        "recipeName": "Bhapa Ilish",
+        "recipeId": 8,
         "ratings": 4.9,
-        "cookingMethod": "Baking",
-        "ingredients": ["Milk", "Sugar", "Yogurt Culture"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "cookingMethod": "Steamed with mustard paste",
+        "ingredients": ["Hilsa fish", "mustard paste", "green chili", "coconut", "curd", "salt"],
+        "image": "https://i.ibb.co/MCXVzW9/abhik-paul-Lsiv0o-AIf-Fk-unsplash-1.jpg"
+      },
+      {
+        "recipeName": "Luchi",
+        "recipeId": 9,
+        "ratings": 4.8,
+        "cookingMethod": "Deep fried",
+        "ingredients": ["Maida", "salt", "oil", "water", "sugar", "ghee"],
+        "image": "https://i.ibb.co/PTHr6GC/1-56.jpg"
+      },
+      {
+        "recipeName": "Chotpoti",
+        "recipeId": 10,
+        "ratings": 4.2,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Moong dal", "cumin seeds", "bay leaf", "dry red chili", "oil", "salt"],
+        "image": "https://i.ibb.co/J2XMwGm/radowan-nakif-rehan-g-U6-KA8z-Cv-M-unsplash.jpg"
+      },
+      {
+        "recipeName": "Kolkata Biryani",
+        "recipeId": 11,
+        "ratings": 4.5,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Basmati rice", "mutton", "potatoes", "yogurt", "bay leaf", "saffron"],
+        "image": "https://i.ibb.co/JzSqGrr/side-view-pilaf-with-stewed-beef-meat-plate-1.jpg"
+      },
+      {
+        "recipeName": "Aloo Posto",
+        "recipeId": 12,
+        "ratings": 4.3,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Potatoes", "poppy seeds", "green chilies", "mustard oil", "turmeric", "salt"],
+        "image": "https://i.ibb.co/jgZ2Msy/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table-1.jpg"
       }
     ]
   },
   {
-    "chefImage": "https://i.ibb.co/2tyswpH/jeff-siepman-z-Ixd-GQ7l-PU-unsplash.jpg",
-    "chefName": "Sarah Johnson",
+    "chefImage": "https://i.ibb.co/Nxwhpqw/rc-cf-FMh5o5m5-N9-E-unsplash-1.jpg",
+    "chefName": "Alex Johnson",
     "yearsOfExperience": 5,
-    "likeNumber": 500,
+    "likeNumber": 50,
     "recipesNumber": 3,
     "id": 2,
     "chefId": "chef456",
     "shortBio": "John Smith is a renowned chef with a passion for creating new and exciting dishes. He has won numerous awards for his culinary creations and has been featured in several national cooking magazines.",
     "recipes": [
       {
-        "recipeName": "Chingri Macher Malaikari",
-        "recipeId": 1,
+        "recipeName": "Luchi",
+        "recipeId": 9,
+        "ratings": 4.8,
+        "cookingMethod": "Deep fried",
+        "ingredients": ["Maida", "salt", "oil", "water", "sugar", "ghee"],
+        "image": "https://i.ibb.co/PTHr6GC/1-56.jpg"
+      },
+      {
+        "recipeName": "Chotpoti",
+        "recipeId": 10,
+        "ratings": 4.2,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Moong dal", "cumin seeds", "bay leaf", "dry red chili", "oil", "salt"],
+        "image": "https://i.ibb.co/J2XMwGm/radowan-nakif-rehan-g-U6-KA8z-Cv-M-unsplash.jpg"
+      },
+      {
+        "recipeName": "Kolkata Biryani",
+        "recipeId": 11,
         "ratings": 4.5,
         "cookingMethod": "Stovetop",
-        "ingredients": ["Prawns", "Coconut Milk", "Mustard Oil", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "ingredients": ["Basmati rice", "mutton", "potatoes", "yogurt", "bay leaf", "saffron"],
+        "image": "https://i.ibb.co/JzSqGrr/side-view-pilaf-with-stewed-beef-meat-plate-1.jpg"
       },
       {
-        "recipeName": "Kosha Mangsho",
-        "recipeId": 2,
-        "ratings": 4.2,
-        "cookingMethod": "Pressure Cooker",
-        "ingredients": ["Mutton", "Onion", "Tomato", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Shorshe Ilish",
-        "recipeId": 3,
-        "ratings": 4.8,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Hilsa Fish", "Mustard Paste", "Green Chili", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Luchi",
-        "recipeId": 4,
+        "recipeName": "Aloo Posto",
+        "recipeId": 12,
         "ratings": 4.3,
-        "cookingMethod": "Frying",
-        "ingredients": ["Flour", "Oil", "Salt"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Potatoes", "poppy seeds", "green chilies", "mustard oil", "turmeric", "salt"],
+        "image": "https://i.ibb.co/jgZ2Msy/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table-1.jpg"
       },
       {
-        "recipeName": "Mishti Doi",
-        "recipeId": 5,
-        "ratings": 4.9,
-        "cookingMethod": "Baking",
-        "ingredients": ["Milk", "Sugar", "Yogurt Culture"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "recipeName": "Shukto",
+        "recipeId": 13,
+        "ratings": 4.0,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Bitter gourd", "eggplant", "sweet potato", "radish", "green banana", "milk"],
+        "image": "https://i.ibb.co/PxC6j8Z/beans-soup-meat-carrot-potato-tomato-greens-side-view-1.jpg"
+      },
+      {
+        "recipeName": "Chomchom",
+        "recipeId": 14,
+        "ratings": 4.6,
+        "cookingMethod": "Boiled in sugar syrup",
+        "ingredients": ["Chhena", "sugar", "cardamom", "rose water", "pistachios", "silver leaf"],
+        "image": "https://i.ibb.co/DzHnQf0/rosh-chomchom-1.jpg"
+      },
+      {
+        "recipeName": "Macher Kalia",
+        "recipeId": 15,
+        "ratings": 4.4,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Fish", "onions", "tomatoes", "ginger", "garlic", "coriander powder"],
+        "image": "https://i.ibb.co/5KKPpH4/Macher-jhol.jpg"
       }
     ]
   },
   {
-    "chefImage": "https://i.ibb.co/9nRb9zT/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "chefImage": "https://i.ibb.co/V3CXkcJ/petr-sevcovic-e5-Q5v-WO55u-U-unsplash-1.jpg",
     "chefName": "Michael Lee",
-    "yearsOfExperience": 8,
+    "yearsOfExperience": 5,
     "likeNumber": 800,
     "recipesNumber": 3,
     "id": 3,
@@ -114,49 +146,57 @@
     "shortBio": "Michael Lee is a classically trained chef who has worked in some of the world's top restaurants. He has a passion for using fresh, seasonal ingredients to create dishes that are both simple and elegant.",
     "recipes": [
       {
-        "recipeName": "Chingri Macher Malaikari",
-        "recipeId": 1,
-        "ratings": 4.5,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Prawns", "Coconut Milk", "Mustard Oil", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "recipeName": "Mishti Doi",
+        "recipeId": 7,
+        "ratings": 4.1,
+        "cookingMethod": "Baked or Steamed",
+        "ingredients": ["Milk", "sugar", "yogurt culture", "cardamom"],
+        "image": "https://i.ibb.co/1ZphZnd/mishti-doi-109140-2-1.jpg"
       },
       {
-        "recipeName": "Kosha Mangsho",
-        "recipeId": 2,
-        "ratings": 4.2,
-        "cookingMethod": "Pressure Cooker",
-        "ingredients": ["Mutton", "Onion", "Tomato", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Shorshe Ilish",
-        "recipeId": 3,
-        "ratings": 4.8,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Hilsa Fish", "Mustard Paste", "Green Chili", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "recipeName": "Bhapa Ilish",
+        "recipeId": 8,
+        "ratings": 4.9,
+        "cookingMethod": "Steamed with mustard paste",
+        "ingredients": ["Hilsa fish", "mustard paste", "green chili", "coconut", "curd", "salt"],
+        "image": "https://i.ibb.co/MCXVzW9/abhik-paul-Lsiv0o-AIf-Fk-unsplash-1.jpg"
       },
       {
         "recipeName": "Luchi",
-        "recipeId": 4,
-        "ratings": 4.3,
-        "cookingMethod": "Frying",
-        "ingredients": ["Flour", "Oil", "Salt"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "recipeId": 9,
+        "ratings": 4.8,
+        "cookingMethod": "Deep fried",
+        "ingredients": ["Maida", "salt", "oil", "water", "sugar", "ghee"],
+        "image": "https://i.ibb.co/PTHr6GC/1-56.jpg"
       },
       {
-        "recipeName": "Mishti Doi",
-        "recipeId": 5,
-        "ratings": 4.9,
-        "cookingMethod": "Baking",
-        "ingredients": ["Milk", "Sugar", "Yogurt Culture"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "recipeName": "Chotpoti",
+        "recipeId": 10,
+        "ratings": 4.2,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Moong dal", "cumin seeds", "bay leaf", "dry red chili", "oil", "salt"],
+        "image": "https://i.ibb.co/J2XMwGm/radowan-nakif-rehan-g-U6-KA8z-Cv-M-unsplash.jpg"
+      },
+      {
+        "recipeName": "Chomchom",
+        "recipeId": 14,
+        "ratings": 4.6,
+        "cookingMethod": "Boiled in sugar syrup",
+        "ingredients": ["Chhena", "sugar", "cardamom", "rose water", "pistachios", "silver leaf"],
+        "image": "https://i.ibb.co/DzHnQf0/rosh-chomchom-1.jpg"
+      },
+      {
+        "recipeName": "Macher Kalia",
+        "recipeId": 15,
+        "ratings": 4.4,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Fish", "onions", "tomatoes", "ginger", "garlic", "coriander powder"],
+        "image": "https://i.ibb.co/5KKPpH4/Macher-jhol.jpg"
       }
     ]
   },
   {
-    "chefImage": "https://i.ibb.co/P4c2m9y/bluebird-provisions-l-RAWc-T7uwh-Y-unsplash.jpg",
+    "chefImage": "https://i.ibb.co/Y0nT3Fx/young-pleased-afro-american-cook-chef-uniform-crosses-arms-points-side-isolated-orange-wall-1.jpg",
     "chefName": "Emily Davis",
     "yearsOfExperience": 6,
     "likeNumber": 600,
@@ -165,101 +205,157 @@
     "chefId": "chef012",
     "recipes": [
       {
-        "recipeName": "Chingri Macher Malaikari",
-        "recipeId": 1,
+        "recipeName": "Mishti Doi",
+        "recipeId": 7,
+        "ratings": 4.1,
+        "cookingMethod": "Baked or Steamed",
+        "ingredients": ["Milk", "sugar", "yogurt culture", "cardamom"],
+        "image": "https://i.ibb.co/1ZphZnd/mishti-doi-109140-2-1.jpg"
+      },
+      {
+        "recipeName": "Bhapa Ilish",
+        "recipeId": 8,
+        "ratings": 4.9,
+        "cookingMethod": "Steamed with mustard paste",
+        "ingredients": ["Hilsa fish", "mustard paste", "green chili", "coconut", "curd", "salt"],
+        "image": "https://i.ibb.co/MCXVzW9/abhik-paul-Lsiv0o-AIf-Fk-unsplash-1.jpg"
+      },
+      {
+        "recipeName": "Kolkata Biryani",
+        "recipeId": 11,
         "ratings": 4.5,
         "cookingMethod": "Stovetop",
-        "ingredients": ["Prawns", "Coconut Milk", "Mustard Oil", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "ingredients": ["Basmati rice", "mutton", "potatoes", "yogurt", "bay leaf", "saffron"],
+        "image": "https://i.ibb.co/JzSqGrr/side-view-pilaf-with-stewed-beef-meat-plate-1.jpg"
       },
       {
-        "recipeName": "Kosha Mangsho",
-        "recipeId": 2,
-        "ratings": 4.2,
-        "cookingMethod": "Pressure Cooker",
-        "ingredients": ["Mutton", "Onion", "Tomato", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Shorshe Ilish",
-        "recipeId": 3,
-        "ratings": 4.8,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Hilsa Fish", "Mustard Paste", "Green Chili", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Luchi",
-        "recipeId": 4,
+        "recipeName": "Aloo Posto",
+        "recipeId": 12,
         "ratings": 4.3,
-        "cookingMethod": "Frying",
-        "ingredients": ["Flour", "Oil", "Salt"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Potatoes", "poppy seeds", "green chilies", "mustard oil", "turmeric", "salt"],
+        "image": "https://i.ibb.co/jgZ2Msy/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table-1.jpg"
       },
       {
-        "recipeName": "Mishti Doi",
-        "recipeId": 5,
-        "ratings": 4.9,
-        "cookingMethod": "Baking",
-        "ingredients": ["Milk", "Sugar", "Yogurt Culture"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "recipeName": "Shukto",
+        "recipeId": 13,
+        "ratings": 4.0,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Bitter gourd", "eggplant", "sweet potato", "radish", "green banana", "milk"],
+        "image": "https://i.ibb.co/PxC6j8Z/beans-soup-meat-carrot-potato-tomato-greens-side-view-1.jpg"
+      },
+      {
+        "recipeName": "Chomchom",
+        "recipeId": 14,
+        "ratings": 4.6,
+        "cookingMethod": "Boiled in sugar syrup",
+        "ingredients": ["Chhena", "sugar", "cardamom", "rose water", "pistachios", "silver leaf"],
+        "image": "https://i.ibb.co/DzHnQf0/rosh-chomchom-1.jpg"
+      },
+      {
+        "recipeName": "Macher Kalia",
+        "recipeId": 15,
+        "ratings": 4.4,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Fish", "onions", "tomatoes", "ginger", "garlic", "coriander powder"],
+        "image": "https://i.ibb.co/5KKPpH4/Macher-jhol.jpg"
       }
     ]
   },
   {
-    "chefImage": "https://i.ibb.co/FwWYZ8y/ronan-kruithof-llc-X9p-Tjh-XM-unsplash.jpg",
+    "chefImage": "https://i.ibb.co/XpkFtqf/handsome-chef-jugglery-with-vegetable-1-1.jpg",
     "chefName": "Daniel Kim",
-    "yearsOfExperience": 12,
-    "likeNumber": 1200,
+    "yearsOfExperience": 4,
+    "likeNumber": 120,
     "recipesNumber": 3,
     "id": 5,
     "chefId": "chef345",
     "recipes": [
       {
-        "recipeName": "Chingri Macher Malaikari",
-        "recipeId": 1,
-        "ratings": 4.5,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Prawns", "Coconut Milk", "Mustard Oil", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Kosha Mangsho",
-        "recipeId": 2,
-        "ratings": 4.2,
-        "cookingMethod": "Pressure Cooker",
-        "ingredients": ["Mutton", "Onion", "Tomato", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Shorshe Ilish",
-        "recipeId": 3,
-        "ratings": 4.8,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Hilsa Fish", "Mustard Paste", "Green Chili", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Luchi",
-        "recipeId": 4,
-        "ratings": 4.3,
-        "cookingMethod": "Frying",
-        "ingredients": ["Flour", "Oil", "Salt"],
+        "recipeName": "Chingri Macher Malai Curry",
+        "recipeId": 6,
+        "ratings": 4.7,
+        "cookingMethod": "Simmered in coconut milk and spices",
+        "ingredients": ["Prawns", "coconut milk", "ginger", "garlic", "turmeric", "green chilies"],
         "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
       },
       {
         "recipeName": "Mishti Doi",
-        "recipeId": 5,
+        "recipeId": 7,
+        "ratings": 4.1,
+        "cookingMethod": "Baked or Steamed",
+        "ingredients": ["Milk", "sugar", "yogurt culture", "cardamom"],
+        "image": "https://i.ibb.co/1ZphZnd/mishti-doi-109140-2-1.jpg"
+      },
+      {
+        "recipeName": "Bhapa Ilish",
+        "recipeId": 8,
         "ratings": 4.9,
-        "cookingMethod": "Baking",
-        "ingredients": ["Milk", "Sugar", "Yogurt Culture"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "cookingMethod": "Steamed with mustard paste",
+        "ingredients": ["Hilsa fish", "mustard paste", "green chili", "coconut", "curd", "salt"],
+        "image": "https://i.ibb.co/MCXVzW9/abhik-paul-Lsiv0o-AIf-Fk-unsplash-1.jpg"
+      },
+      {
+        "recipeName": "Luchi",
+        "recipeId": 9,
+        "ratings": 4.8,
+        "cookingMethod": "Deep fried",
+        "ingredients": ["Maida", "salt", "oil", "water", "sugar", "ghee"],
+        "image": "https://i.ibb.co/PTHr6GC/1-56.jpg"
+      },
+      {
+        "recipeName": "Chotpoti",
+        "recipeId": 10,
+        "ratings": 4.2,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Moong dal", "cumin seeds", "bay leaf", "dry red chili", "oil", "salt"],
+        "image": "https://i.ibb.co/J2XMwGm/radowan-nakif-rehan-g-U6-KA8z-Cv-M-unsplash.jpg"
+      },
+      {
+        "recipeName": "Kolkata Biryani",
+        "recipeId": 11,
+        "ratings": 4.5,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Basmati rice", "mutton", "potatoes", "yogurt", "bay leaf", "saffron"],
+        "image": "https://i.ibb.co/JzSqGrr/side-view-pilaf-with-stewed-beef-meat-plate-1.jpg"
+      },
+      {
+        "recipeName": "Aloo Posto",
+        "recipeId": 12,
+        "ratings": 4.3,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Potatoes", "poppy seeds", "green chilies", "mustard oil", "turmeric", "salt"],
+        "image": "https://i.ibb.co/jgZ2Msy/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table-1.jpg"
+      },
+      {
+        "recipeName": "Shukto",
+        "recipeId": 13,
+        "ratings": 4.0,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Bitter gourd", "eggplant", "sweet potato", "radish", "green banana", "milk"],
+        "image": "https://i.ibb.co/PxC6j8Z/beans-soup-meat-carrot-potato-tomato-greens-side-view-1.jpg"
+      },
+      {
+        "recipeName": "Chomchom",
+        "recipeId": 14,
+        "ratings": 4.6,
+        "cookingMethod": "Boiled in sugar syrup",
+        "ingredients": ["Chhena", "sugar", "cardamom", "rose water", "pistachios", "silver leaf"],
+        "image": "https://i.ibb.co/DzHnQf0/rosh-chomchom-1.jpg"
+      },
+      {
+        "recipeName": "Macher Kalia",
+        "recipeId": 15,
+        "ratings": 4.4,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Fish", "onions", "tomatoes", "ginger", "garlic", "coriander powder"],
+        "image": "https://i.ibb.co/5KKPpH4/Macher-jhol.jpg"
       }
     ]
   },
   {
-    "chefImage": "https://i.ibb.co/44ZRv1H/petr-sevcovic-e5-Q5v-WO55u-U-unsplash.jpg",
-    "chefName": "Jessica Brown",
+    "chefImage": "https://i.ibb.co/47H84cN/medium-shot-chef-posing-with-spatula-1.jpg",
+    "chefName": "Eric Brown",
     "yearsOfExperience": 2,
     "likeNumber": 200,
     "recipesNumber": 3,
@@ -267,44 +363,84 @@
     "chefId": "chef678",
     "recipes": [
       {
-        "recipeName": "Chingri Macher Malaikari",
-        "recipeId": 1,
-        "ratings": 4.5,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Prawns", "Coconut Milk", "Mustard Oil", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Kosha Mangsho",
-        "recipeId": 2,
-        "ratings": 4.2,
-        "cookingMethod": "Pressure Cooker",
-        "ingredients": ["Mutton", "Onion", "Tomato", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Shorshe Ilish",
-        "recipeId": 3,
-        "ratings": 4.8,
-        "cookingMethod": "Stovetop",
-        "ingredients": ["Hilsa Fish", "Mustard Paste", "Green Chili", "Spices"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
-      },
-      {
-        "recipeName": "Luchi",
-        "recipeId": 4,
-        "ratings": 4.3,
-        "cookingMethod": "Frying",
-        "ingredients": ["Flour", "Oil", "Salt"],
+        "recipeName": "Chingri Macher Malai Curry",
+        "recipeId": 6,
+        "ratings": 4.7,
+        "cookingMethod": "Simmered in coconut milk and spices",
+        "ingredients": ["Prawns", "coconut milk", "ginger", "garlic", "turmeric", "green chilies"],
         "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
       },
       {
         "recipeName": "Mishti Doi",
-        "recipeId": 5,
+        "recipeId": 7,
+        "ratings": 4.1,
+        "cookingMethod": "Baked or Steamed",
+        "ingredients": ["Milk", "sugar", "yogurt culture", "cardamom"],
+        "image": "https://i.ibb.co/1ZphZnd/mishti-doi-109140-2-1.jpg"
+      },
+      {
+        "recipeName": "Bhapa Ilish",
+        "recipeId": 8,
         "ratings": 4.9,
-        "cookingMethod": "Baking",
-        "ingredients": ["Milk", "Sugar", "Yogurt Culture"],
-        "image": "https://i.ibb.co/mtpxvkC/Shutterstock-1916557661.jpg"
+        "cookingMethod": "Steamed with mustard paste",
+        "ingredients": ["Hilsa fish", "mustard paste", "green chili", "coconut", "curd", "salt"],
+        "image": "https://i.ibb.co/MCXVzW9/abhik-paul-Lsiv0o-AIf-Fk-unsplash-1.jpg"
+      },
+      {
+        "recipeName": "Luchi",
+        "recipeId": 9,
+        "ratings": 4.8,
+        "cookingMethod": "Deep fried",
+        "ingredients": ["Maida", "salt", "oil", "water", "sugar", "ghee"],
+        "image": "https://i.ibb.co/PTHr6GC/1-56.jpg"
+      },
+      {
+        "recipeName": "Chotpoti",
+        "recipeId": 10,
+        "ratings": 4.2,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Moong dal", "cumin seeds", "bay leaf", "dry red chili", "oil", "salt"],
+        "image": "https://i.ibb.co/J2XMwGm/radowan-nakif-rehan-g-U6-KA8z-Cv-M-unsplash.jpg"
+      },
+      {
+        "recipeName": "Kolkata Biryani",
+        "recipeId": 11,
+        "ratings": 4.5,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Basmati rice", "mutton", "potatoes", "yogurt", "bay leaf", "saffron"],
+        "image": "https://i.ibb.co/JzSqGrr/side-view-pilaf-with-stewed-beef-meat-plate-1.jpg"
+      },
+      {
+        "recipeName": "Aloo Posto",
+        "recipeId": 12,
+        "ratings": 4.3,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Potatoes", "poppy seeds", "green chilies", "mustard oil", "turmeric", "salt"],
+        "image": "https://i.ibb.co/jgZ2Msy/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table-1.jpg"
+      },
+      {
+        "recipeName": "Shukto",
+        "recipeId": 13,
+        "ratings": 4.0,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Bitter gourd", "eggplant", "sweet potato", "radish", "green banana", "milk"],
+        "image": "https://i.ibb.co/PxC6j8Z/beans-soup-meat-carrot-potato-tomato-greens-side-view-1.jpg"
+      },
+      {
+        "recipeName": "Chomchom",
+        "recipeId": 14,
+        "ratings": 4.6,
+        "cookingMethod": "Boiled in sugar syrup",
+        "ingredients": ["Chhena", "sugar", "cardamom", "rose water", "pistachios", "silver leaf"],
+        "image": "https://i.ibb.co/DzHnQf0/rosh-chomchom-1.jpg"
+      },
+      {
+        "recipeName": "Macher Kalia",
+        "recipeId": 15,
+        "ratings": 4.4,
+        "cookingMethod": "Stovetop",
+        "ingredients": ["Fish", "onions", "tomatoes", "ginger", "garlic", "coriander powder"],
+        "image": "https://i.ibb.co/5KKPpH4/Macher-jhol.jpg"
       }
     ]
   }
