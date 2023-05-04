@@ -75,7 +75,7 @@
     "recipesNumber": 3,
     "id": 2,
     "chefId": "chef456",
-    "shortBio": "John Smith is a renowned chef with a passion for creating new and exciting dishes. He has won numerous awards for his culinary creations and has been featured in several national cooking magazines.",
+    "shortBio": "Alex Johnson is a renowned chef with a passion for creating new and exciting dishes. He has won numerous awards for his culinary creations and has been featured in several national cooking magazines.",
     "recipes": [
       {
         "recipeName": "Luchi",
@@ -203,6 +203,7 @@
     "recipesNumber": 3,
     "id": 4,
     "chefId": "chef012",
+    "shortBio": "Emily Davis is a renowned chef with a passion for creating new and exciting dishes. He has won numerous awards for his culinary creations and has been featured in several national cooking magazines.",
     "recipes": [
       {
         "recipeName": "Mishti Doi",
@@ -270,6 +271,7 @@
     "recipesNumber": 3,
     "id": 5,
     "chefId": "chef345",
+    "shortBio": "Daniel kim is a renowned chef with a passion for creating new and exciting dishes. He has won numerous awards for his culinary creations and has been featured in several national cooking magazines.",
     "recipes": [
       {
         "recipeName": "Chingri Macher Malai Curry",
@@ -361,6 +363,7 @@
     "recipesNumber": 3,
     "id": 6,
     "chefId": "chef678",
+    "shortBio": "Eric Brown is a renowned chef with a passion for creating new and exciting dishes. He has won numerous awards for his culinary creations and has been featured in several national cooking magazines.",
     "recipes": [
       {
         "recipeName": "Chingri Macher Malai Curry",
